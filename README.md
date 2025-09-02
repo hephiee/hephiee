@@ -10,6 +10,15 @@ Building my practical skillset in technical and GRC areas of cyber security, as 
 [Experience]
 - EzEdTech Solutions - Research Intern [Jun 2025 - Dec 2026]
 
+[Training]
+- Singapore Centre for Cybersecurity Institute - Practical training and projects (350 hours) for modular certifications in intensive roles
+- + SOC Analyst
+  + Penetration Testing
+  + Programming in Linux
+  + Network Research
+  + Programming in Python with respect to Penetration testing and SOC
+  ** syllabus as audited by Singapore government
+
 
 [Practical Projects]
 + new portal design hardware to be implemented in factory using NF and FF RFID technology which reduced the amount of tag collision error and discrepancy by XX% (TBC the actual figure)
@@ -22,3 +31,17 @@ Building my practical skillset in technical and GRC areas of cyber security, as 
   + e) Comparative analysis of Near-Field vs Far-Field RFID Communication and the theoretical underpinnings of both mechanisms.
   + f) Holistic evaluation of component selection and permutations and combinations of relted components with each option.
 + Performed penetration testing and reporting for Edtech Solutions, a globally distributed company providing customized software solutions.
+
++ Wrote Bash script to automize data/information extraction given a clone server/directory
++ Penetration testing - Created information gathering tool for finding open ports and vulnerabilities and brute-forcing passwords
++ Live SOC Monitoring (Kibana, Elastisearch) - Monitored real-time security alerts as well as raw log files in txt form, performed triage and investigated incidents in a simulated SOC environment
++ SOC Analysis (Wireshark) - Investigated real-world security incidents in a simulated SOC environment, analysing logs, detecting threats and responding to cyber-attacks using SIEM and EDR tools.
++ CyberDefenders Blue Team Labs Participation: Engaged in realistic browser-based labs simulating real world cybersecurity scenarios, enhancing skills in threat detection, incident response, digital forensics and malware analysis.
++ Log (N) Pacific Cyber Range:
++ + Vulnerability Management: Reduced critical vulnerabilities by 100% using Tenable and PowerShell Automation
+  + Security Operations: Detected and mitigated brute force, ransomware and data exfiltration threats via EDR
+  + Threat Intelligence: Built Sentinel dashboards and KQL queries for security monitoring and incident response
+ 
++ Conducted a third party risk assessment on a supplier as part of Cyber Security GRC Mastery Training course. The assessment consisted of reviewing a third-party security assessment questionnaire, assessing and summarizing the key risk items identified.
++ Asset Management: Designed a process to capture assets and maintain a CMDB as part of Cyber Security GRC Mastery Training Course
++ Conducted an end-to-end cyber security maturity assessment using NIST CSF framework as part of Cyber Security GRC Master Training course
