@@ -1,16 +1,24 @@
-## Hi there 👋
+# hi, i'm hephie
+<a href="LINKEDINHERE"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL">
 
-<!--
-**hephiee/hephiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
+I am an aspiring computer science undergraduate leveraging on cybersecurity practical training in simulated lab environments and technical research internship with bespoke software solutions provider. Particularly proficient in penetration testing, with final cybersecurity certification project in building full decoy honeypots.
 
-Here are some ideas to get you started:
+Building my practical skillset in technical and GRC areas of cyber security, as well as in customized software design for data integrity in high density locations to enhance operational efficiency, tracking accuracy, and workflow automation for industrial clients. Also, an avid sparring enthusiast who enjoys the unpredictability and challenge of worthy adversaries in Taekwondo :D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Experience]
+- EzEdTech Solutions - Research Intern [Jun 2025 - Dec 2026]
+
+
+[Practical Projects]
++ new portal design hardware to be implemented in factory using NF and FF RFID technology which reduced the amount of tag collision error and discrepancy by XX% (TBC the actual figure)
++ in-depth technical investigation and academic research paper review of RFID components, IoT and custom technologies for managemant of linen service (sheet/towel laundering and QC at a large hotel chain in Malaysia), including robust traceability of potential contaminants for future pandemic readiness.
++ + RFID components were:
+  + a) RFID Antenna technologies- Dipole, Monopole, Patch, Yagi, Loop, Fractal, Slot, Planar Inverted-F Antenna (PIFA)
+  + b) RFID Chip Technologies - Passive, Active, Battery-assisted Passive (BAP) devices, Write-Once Read Many (WORM) vs Read-Write Capabilities, Suitability assessments for specific security requirements with different frequency bands (LF, HF, UHF), Ultra-Wideband (UWB) and Low-Power Wide-Area Network (LPWAN) antennas.
+  + c) RFID Reader Types - analyzing interface and connectivity options of RS232, USB, I2C, RS422, RS485 for data transmission and seamless integration with Android and Windows applications.
+  + d) Performance optimization research on RFID Antenna Placement and Collision Detection Algorithms (ALOHA - and tree-based Query, Binary Search, Collision, algorithms).
+  + e) Comparative analysis of Near-Field vs Far-Field RFID Communication and the theoretical underpinnings of both mechanisms.
+  + f) Holistic evaluation of component selection and permutations and combinations of relted components with each option.
++ Performed penetration testing and reporting for Edtech Solutions, a globally distributed company providing customized software solutions.
