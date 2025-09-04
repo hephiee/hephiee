@@ -4,7 +4,7 @@
 [Brief Introduction]
 I am an aspiring computer science undergraduate leveraging on cybersecurity practical training in simulated lab environments and technical research internship with bespoke software solutions provider. Particularly proficient in penetration testing, with final cybersecurity certification project in building full decoy honeypots.
 
-Building my practical skillset in technical and GRC areas of cyber security, as well as in customized software design for data integrity in high density locations to enhance operational efficiency, tracking accuracy, and workflow automation for industrial clients. Also, an avid sparring enthusiast who enjoys the unpredictability and challenge of worthy adversaries in Taekwondo :D.
+Building my practical skillset in technical and GRC areas of cybersecurity, as well as in customized software design for data integrity in high density locations to enhance operational efficiency, tracking accuracy, and workflow automation for industrial clients. Also, an avid sparring enthusiast who enjoys the unpredictability and challenge of worthy adversaries in Taekwondo :D.
 
 
 [Experience]
@@ -17,6 +17,7 @@ Building my practical skillset in technical and GRC areas of cyber security, as 
   + Programming in Linux
   + Network Research
   + Programming in Python with respect to Penetration testing and SOC
+  
   ** syllabus as audited by Singapore government
 
 
