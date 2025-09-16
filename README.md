@@ -9,6 +9,7 @@ Building my practical skillset in technical and GRC areas of cybersecurity, as w
 
 [Experience]
 - EzEdTech Solutions - Research Intern [Jun 2025 - Dec 2026]
+- EzEdTech Solutions - Penetration Tester [Jun 2025 - Dec 2026]
 
 [Training]
 - Singapore Centre for Cybersecurity Institute - Practical training and projects (350 hours) for modular certifications in intensive roles
