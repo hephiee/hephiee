@@ -20,6 +20,12 @@ Building my practical skillset in technical and GRC areas of cybersecurity, as w
   
   ** syllabus as audited by Singapore government
 
+Certifications and Competitions:
+- NCSS (National Computer Science School and Grok Academy) Challenge (Intermediate, Python) - High Distinction (98% Final Score; February 2021)
+- Microsoft Certified - AI-900: Azure AI Fundamentals (24 July, 2021)
+- Microsoft Technology Associate - Python (27 June, 2020)
+- Microsoft Certified - Azure Data Fundamentals (28 January, 2019)
+- Microsoft Technology Associate - HTML5 Application Development (28 July, 2018)
 
 [Practical Projects]
 + new portal design hardware to be implemented in factory using NF and FF RFID technology which reduced the amount of tag collision error and discrepancy by XX% (TBC the actual figure)
